@@ -1,8 +1,8 @@
 <!-- ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif) -->
 
 
-<h1 align="center">Hi 👋, I'm Rahul Baghel</h1>
-<h3 align="center">A passionate full stack developer. Love to learn new things.</h3>
+<h1 align="center">Hi 👋, I'm Anshu Pandey</h1>
+<h3 align="center">A passionate software Enagineer. Love to learn new things.</h3>
 
 <p align="center">
   <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Web+Developer;%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
